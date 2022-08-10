@@ -1,0 +1,3 @@
+server:
+  port: ${PORT:9998}
+message: Consumer configuration. Server is alive for DEV profile
