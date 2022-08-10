@@ -3,4 +3,7 @@ server:
 message:
   specific-information: Consumer configuration. Server is alive for PROD profile
 
-domain-mail-enabled: firstMail, secondMail, thirdMail
+domain-mail-enabled: >
+  firstMail
+  secondMail
+  thirdMail
