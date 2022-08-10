@@ -1,3 +1,4 @@
 server:
   port: ${PORT:9999}
-message: Consumer configuration. Server is alive for PROD profile
+message:
+  specific-information: Consumer configuration. Server is alive for PROD profile
