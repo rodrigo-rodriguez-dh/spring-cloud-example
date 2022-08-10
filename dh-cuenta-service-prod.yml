@@ -1,9 +1,3 @@
 server:
   port: ${PORT:9999}
-message:
-  specific-information: Consumer configuration. Server is alive for PROD profile
-
-domain-mail-enabled:
-  - firstMail
-  - secondMail
-  - thirdMail
+message: Consumer configuration. Server is alive for PROD profile
